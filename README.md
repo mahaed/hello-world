@@ -1,2 +1,2 @@
 # hello-world
-This is a practice to help me become acquainted with creating a repository for the Microprocessor course - Lab 1. My name is Mahaed Mohamud. I am currently a junior here at the Seattle University, pursuing a Bachelor of Science degree in Electronics and Electrical Engineering. Further, this is my first time to generate a repository through the use of GitHub.  Regardless, this doesn't look to be very overwhelming nor complicated than I expected it to be but nonetheless, I now learn how to use GitHub and create a repository properly.
+This is a practice to help me become acquainted with creating a repository for the Microprocessor course - Lab 1. 
